@@ -99,14 +99,14 @@ Sırasız bir liste oluşturmak için satır öğelerinin önüne kısa çizgile
 # Tablolar
 Tablo oluşturmak için ( | , -) şekillerini ayırıcı olarak kullanıyoruz. Kolonları ayırırken ( | ), sütünları ( - ) işareti kullanılır.
 
-İsim | Alan
+Sayı| Renk
 ----- | -----
-Begüm| Tasarım
-Cahit Barkay| FrontEnd
-Oğuzhan | Tasarım
-Oktay|FrontEnd
-Aleyna|FrontEnd
-Kemal|FontEnd
+1| Sarı
+2| Kırmızı
+3| Mavi
+4| Mor
+5| Pembe 
+6| Yeşil
 
 
 # Kod Blokları  
@@ -134,12 +134,12 @@ Yatay çizgi
 
 # Bağlantılar  
 Bir bağlantı oluşturmak için, bağlantı metnini köşeli parantez içine alın (ör. [Duck Duck Go]) ve ardından onu hemen parantez içindeki URL ile takip edin.
-> (ör. [PriviaHub] (https://priviahub.com))
+> (ör. [Google] (https://google.com))
 
 # URL'ler ve E-posta Adresleri  
 Bir URL'yi veya e-posta adresini hızlı bir şekilde bağlantıya dönüştürmek için, (<,>) içine alın.
 
-"<"https://priviahub.com">"
+"<"https://www.markdownguide.org">"
 <https://www.markdownguide.org>
 <fake@example.com>
 
